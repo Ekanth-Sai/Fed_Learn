@@ -1,0 +1,4 @@
+data/
+client_data/
+venv/
+src/__pycache_
