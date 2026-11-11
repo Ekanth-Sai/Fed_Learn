@@ -37,7 +37,7 @@ nvidia-nvshmem-cu13==3.4.5
 nvidia-nvtx==13.0.85
 packaging==26.0
 pandas==3.0.2
-pillow==12.2.0
+pillow==13.0.0
 protobuf==7.34.1
 pyparsing==3.3.2
 python-dateutil==2.9.0.post0
